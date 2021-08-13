@@ -1,0 +1,20 @@
+
+# idea 1
+https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/GitHub-Status-App.md
+
+github status idea from this link:
+
+# idea 2 
+
+Build a quick little firefox extension to check the surf.
+
+idea: take weather api closest to the coast, and take the ocean temp, + windchill temp, give the rounded temp. 
+ 
+ - take weather api 
+ - calc windchill 
+ - display ideal setting: shorts/wetsuit. 
+
+technology chosen: 
+ - go (backend)
+ - react frontend? might mess around and learn Vue. 
+ - 
