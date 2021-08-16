@@ -17,4 +17,4 @@ idea: take weather api closest to the coast, and take the ocean temp, + windchil
 technology chosen: 
  - go (backend)
  - react frontend? might mess around and learn Vue. 
- - 
+  
